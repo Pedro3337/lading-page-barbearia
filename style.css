@@ -60,7 +60,8 @@ html {
 }
 
 .max-main-header-container {
-    padding: 20px;background-color: var(--fundo);
+    padding: 20px;
+    background-color: var(--fundo);
     color: var(--texto);
 }
 
@@ -76,7 +77,8 @@ html {
 .max-main-header2-container {
     padding: 10px;
     background-color: var(--superficie);
-    border: 2px solid var(--destaque);
+    border-top: 2px solid var(--destaque);;
+    border-bottom: 2px solid var(--destaque);
 }
 
 .min-main-header2-container {
